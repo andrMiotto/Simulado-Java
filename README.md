@@ -1,1 +1,3 @@
 # Simulado-Java
+
+**continuar gerenciarEstoque**
